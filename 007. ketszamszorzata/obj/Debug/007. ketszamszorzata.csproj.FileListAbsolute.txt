@@ -1,0 +1,6 @@
+C:\Users\gratt\source\repos\007. ketszamszorzata\007. ketszamszorzata\bin\Debug\_007.ketszamszorzata.exe.config
+C:\Users\gratt\source\repos\007. ketszamszorzata\007. ketszamszorzata\bin\Debug\_007.ketszamszorzata.exe
+C:\Users\gratt\source\repos\007. ketszamszorzata\007. ketszamszorzata\bin\Debug\_007.ketszamszorzata.pdb
+C:\Users\gratt\source\repos\007. ketszamszorzata\007. ketszamszorzata\obj\Debug\007. ketszamszorzata.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\007. ketszamszorzata\007. ketszamszorzata\obj\Debug\_007.ketszamszorzata.exe
+C:\Users\gratt\source\repos\007. ketszamszorzata\007. ketszamszorzata\obj\Debug\_007.ketszamszorzata.pdb
